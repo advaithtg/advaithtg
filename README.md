@@ -1,16 +1,62 @@
-## Hi there 👋
+# 👋 Hi, I'm [Your Name]
 
-<!--
-**advaithtg/advaithtg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 Automation Engineer | PLC Programmer | Industrial Systems
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 💡 Passionate about industrial automation & control systems  
+- 🏭 Experience in PLC, SCADA, HMI development  
+- ⚙️ Specialized in process automation & troubleshooting  
+- 📍 Based in [Your Location]
+
+---
+
+## 🛠️ Technologies & Tools
+
+### PLC Programming
+- Siemens (TIA Portal, Step 7)
+- Allen-Bradley (RSLogix, Studio 5000)
+- Mitsubishi / Schneider
+
+### SCADA / HMI
+- WinCC
+- FactoryTalk View
+- Ignition
+
+### Industrial Communication
+- Modbus
+- Profibus / Profinet
+- Ethernet/IP
+
+### Programming
+- Structured Text (IEC 61131-3)
+- Ladder Logic
+- Python (for automation scripts)
+
+---
+
+## 📂 Featured Projects
+
+### 🏭 Conveyor Automation System
+- PLC-based control system for material handling
+- Includes motor control, sensors, safety interlocks
+
+### ⚡ Water Treatment Plant Automation
+- Automated pump control & level monitoring
+- SCADA visualization with alarms
+
+### 🔥 Boiler Control System
+- Temperature & pressure regulation
+- PID control implementation
+
+---
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+---
+
+## 📫 Contact Me
+- LinkedIn: [your-link]
+- Email: your@email.com
