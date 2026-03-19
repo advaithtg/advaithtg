@@ -67,12 +67,12 @@ B&R | Allen-Bradley | Siemens | ABB | Schneider | Omron | Fanuc | Delta
 ## 🛠️ Technologies & Tools
 
 ### 🔹 PLC Platforms
-![B&R](https://img.shields.io/badge/PLC-B&R-orange)
-![Allen Bradley](https://img.shields.io/badge/PLC-Allen--Bradley-red)
-![Siemens](https://img.shields.io/badge/PLC-Siemens-blue)
-![Schneider](https://img.shields.io/badge/PLC-Schneider-green)
-![ABB](https://img.shields.io/badge/PLC-ABB-red)
-![Omron](https://img.shields.io/badge/PLC-Omron-grey)
+![B&R](https://img.shields.io/badge/B&R-orange)
+![Allen Bradley](https://img.shields.io/badge/Allen--Bradley-red)
+![Siemens](https://img.shields.io/badge/Siemens-blue)
+![Schneider](https://img.shields.io/badge/Schneider-green)
+![ABB](https://img.shields.io/badge/ABB-red)
+![Omron](https://img.shields.io/badge/Omron-grey)
 
 ---
 
