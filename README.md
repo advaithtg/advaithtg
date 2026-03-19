@@ -64,6 +64,54 @@ B&R | Allen-Bradley | Siemens | ABB | Schneider | Omron | Fanuc | Delta
 * Instrument Calibration
 
 ---
+## 🛠️ Technologies & Tools
+
+### 🔹 PLC Platforms
+![B&R](https://img.shields.io/badge/PLC-B&R-orange)
+![Allen Bradley](https://img.shields.io/badge/PLC-Allen--Bradley-red)
+![Siemens](https://img.shields.io/badge/PLC-Siemens-blue)
+![Schneider](https://img.shields.io/badge/PLC-Schneider-green)
+![ABB](https://img.shields.io/badge/PLC-ABB-red)
+![Omron](https://img.shields.io/badge/PLC-Omron-grey)
+
+---
+
+### 🔹 Programming
+![Ladder Logic](https://img.shields.io/badge/Code-Ladder%20Logic-blue)
+![Structured Text](https://img.shields.io/badge/Code-Structured%20Text-orange)
+![FBD](https://img.shields.io/badge/Code-FBD-lightgrey)
+![C++](https://img.shields.io/badge/Code-C++-blue)
+![Python](https://img.shields.io/badge/Code-Python-yellow)
+
+---
+
+### 🔹 SCADA & HMI
+![WinCC](https://img.shields.io/badge/SCADA-WinCC-blue)
+![FactoryTalk](https://img.shields.io/badge/SCADA-FactoryTalk-red)
+![Intouch](https://img.shields.io/badge/SCADA-InTouch-purple)
+![iFIX](https://img.shields.io/badge/SCADA-iFIX-green)
+![Citect](https://img.shields.io/badge/SCADA-Citect-orange)
+
+---
+
+### 🔹 Industrial Communication
+![Modbus](https://img.shields.io/badge/Protocol-Modbus-black)
+![EtherNet/IP](https://img.shields.io/badge/Protocol-EtherNet%2FIP-blue)
+![Profinet](https://img.shields.io/badge/Protocol-Profinet-green)
+
+---
+
+### 🔹 Industrial Systems
+![DCS](https://img.shields.io/badge/System-DCS-grey)
+![Motion Control](https://img.shields.io/badge/System-Motion%20Control-blue)
+![VFD](https://img.shields.io/badge/Device-VFD-orange)
+![Servo Systems](https://img.shields.io/badge/System-Servo-green)
+
+---
+
+### 🔹 Hardware & Embedded
+![Arduino](https://img.shields.io/badge/Hardware-Arduino-blue)
+![Raspberry Pi](https://img.shields.io/badge/Hardware-Raspberry%20Pi-red)
 
 ## 📂 Featured Projects
 
