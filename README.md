@@ -184,7 +184,7 @@ B&R | Allen-Bradley | Siemens | ABB | Schneider | Omron | Fanuc | Delta
 
 📧 [advaithtg789@gmail.com](mailto:advaithtg789@gmail.com)
 🔗 LinkedIn: https://www.linkedin.com/in/advaith-t-g-T
-📱 Phone: 9745061137
+📱 Phone: +91 9745061137
 
 ---
 
