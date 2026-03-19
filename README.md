@@ -8,7 +8,7 @@
 
 * 🎓 Mechanical & Mechatronics Engineer (Additive Manufacturing)
 * 🤖 Junior Automation Engineer with hands-on PLC experience
-* ⚙️ Specialized in industrial machine automation & control systems
+* ⚙️ Specialized in Industrial Automation 
 * 💡 Strong in Structured Text, Ladder Logic & real-time debugging
 * 📍 Based in Kerala, India
 
@@ -33,7 +33,7 @@
 
 ### 🔹 PLC Platforms
 
-B&R | Allen-Bradley | Siemens | ABB | Schneider | Omron | Fanuc
+B&R | Allen-Bradley | Siemens | ABB | Schneider | Omron | Fanuc | Delta
 
 ### 🔹 Programming
 
@@ -41,7 +41,6 @@ B&R | Allen-Bradley | Siemens | ABB | Schneider | Omron | Fanuc
 * Structured Text
 * Function Block Diagram (FBD)
 * C++
-* Python
 
 ### 🔹 SCADA & HMI
 
@@ -92,7 +91,7 @@ B&R | Allen-Bradley | Siemens | ABB | Schneider | Omron | Fanuc
 
 ---
 
-### 🤖 Smart Vending Bot with Waste Management
+### 🤖 Smart Vending Bot with Waste Management ( Final Year Project )
 
 * Built using **Raspberry Pi + Arduino**
 * Camera-based object detection
@@ -110,7 +109,8 @@ B&R | Allen-Bradley | Siemens | ABB | Schneider | Omron | Fanuc
 
 ## 🎓 Certifications
 
-* Post Graduate Diploma in Industrial Automation & DCS
+* Post Graduate Diploma in Industrial Automation
+* Advanced Training DCS (Honeywell C-300)
 * NPTEL – Product Engineering & Design Thinking
 * NPTEL – Industry 4.0 & Social Innovation
 
@@ -132,16 +132,11 @@ B&R | Allen-Bradley | Siemens | ABB | Schneider | Omron | Fanuc
 
 ---
 
-## 📊 GitHub Stats
-
-![Advaith's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true)
-
----
-
 ## 📫 Contact Me
 
 📧 [advaithtg789@gmail.com](mailto:advaithtg789@gmail.com)
 🔗 LinkedIn: https://www.linkedin.com/in/advaith-t-g-T
+📱 Phone: 9745061137
 
 ---
 
